@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-ppsn&label=Profile%20views&color=0014a8&style=plastic" alt="dr-ppsn" /> </p>
 
-- 🔭 I’m currently working on a school project [bbs-php-projekt-dbapi](https://github.com/Dr-PPSN/bbs-php-projekt-dbapi)
-
-- 🌱 I’m currently learning **Node.js**
+- 🔭 I’m currently working on a school project [bbs-php-projekt-olympia]([https://github.com/Dr-PPSN/bbs-php-projekt-dbapi](https://github.com/Dr-PPSN/BBS-Projekt-Olympia))
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dr-PPSN](https://github.com/Dr-PPSN)
 
-- 📫 How to reach me **KR@hevor.de**
+- 📫 How to reach me **kai@rohrpasser.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
